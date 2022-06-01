@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color:lightgrey;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}   
+
+#bienvenida{
+    background-color:lightgrey;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+}
+
+#error{
+    color: #F00;
+    font-size: 25px;
+}
+
+#mensaje{
+    color: #F00;
+    font-size: 25px;
+}
+
+#boton{
+    font-size: 17px;
+    margin: 10px;
+}
+
+label{
+    font-size: 20px
+}
+
+fieldset{
+    margin: 100px;
+    max-width: 600px; 
+    height: 150px;
+    margin: auto;
+    background-color: #F4F0DE;
+}
+
+legend{
+    font-size: 30px;
+    text-align: left
+}
+
+form{
+    padding: 20px;
+    font-size:20px;
+}

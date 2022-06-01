@@ -1,0 +1,79 @@
+body{
+    background-color:lightgrey;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+h1{
+    text-align: center;
+    background-color: #EDEBE8;
+}
+
+p{
+    font-size: 20px;
+    color: Blue;
+    text-align: center
+}
+
+
+#mensaje{
+    color: #F00;
+    font-size: 25px;
+}
+
+#boton{
+    font-size: 17px;
+    margin: 10px;
+}
+
+#archivo{
+    margin: auto;
+}
+
+label{
+    font-size: 20px;
+    background-color:#E3FBFD;
+}
+
+legend{
+    font-size: 30px;
+    text-align: left;
+    background-color:#E3FBFD;
+}
+
+fieldset{
+    background-color:#E3FBFD;
+    max-width: 600px; 
+    margin: auto;
+}
+
+#bienvenida{
+    background-color:lightgrey;
+    text-align: center;
+    color: #000;
+}
+
+form{
+    font-size:20px;
+    background-color:#E3FBFD;
+}
+
+a{
+    padding: 15px;
+}
+
+#regresar{
+    color: #fff;
+    font-size: 20px;
+}
+
+.INDEX{
+    
+    height: 49vh;
+    background: url("img-progreso.png") no-repeat center top;
+    background-size: cover;
+    padding-top: 400px;
+}

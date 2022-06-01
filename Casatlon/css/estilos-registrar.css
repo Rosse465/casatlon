@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    
+    text-align: center;
+}
+
+h1{
+    background-color: #EDEBE8;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}   
+
+#error{
+    color: #F00;
+    font-size: 25px;
+}
+
+#mensaje{
+    color: #F00;
+    font-size: 25px;
+}
+
+#boton{
+    font-size: 17px;
+    margin: 10px;
+}
+
+label{
+    font-size: 20px
+}
+
+fieldset{
+    margin: 100px;
+    max-width: 600px; 
+    height: 220px;
+    margin: auto;
+    background-color:#E3FBFD;
+}
+
+legend{
+    font-size: 30px;
+    text-align: left;
+}
+
+form{
+    padding: 20px;
+    font-size:20px;
+}
+
+#link{
+    font-size: 20px;
+    color: #fff;
+}
+
+.INDEX{
+    height: 49vh;
+    background: url("img-registro.png") no-repeat center top;
+    background-size: cover;
+    padding-top: 400px;
+}
